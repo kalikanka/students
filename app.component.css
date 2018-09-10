@@ -1,0 +1,47 @@
+h1 {
+  color: #b6e534;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+  background-image: url('assets/img/img.jpg') !important;
+  background-size: cover;
+  background-position: center center;
+}
+
+h2, h3 {
+  color: #444;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+body {
+  margin: 2em;
+}
+
+body, input[text], button {
+  color: #888;
+  font-family: Cambria, Georgia, sans-serif;
+}
+
+b{
+  background-image: url('assets/img/img.jpg') !important;
+  background-size: cover;
+  background-position: center center;
+}
+
+a.button {
+  background-color: #d2f293;
+  color: #f0fff6;
+  padding: 5px 60px 5px 60px;
+  border-style: ridge;
+  border-radius: 10px;
+  background-image: url('assets/img/img.jpg') !important;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+/* everywhere else */
+* {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
